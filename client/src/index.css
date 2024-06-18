@@ -1,0 +1,50 @@
+.signIn{
+    background-image: url('https://i1.wp.com/wallpapercave.com/wp/wp9764105.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.signIn button{
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.nav{
+    background-color: cornsilk;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    
+}
+.nav h1{
+    margin: 0;
+    margin-right: 40px;
+    padding: 0;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.nav h5{
+    margin: 0;
+    margin-top: 25px;
+    margin-right: 40px;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+.oList{
+    border: black solid 2px ;
+}
